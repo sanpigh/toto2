@@ -11,11 +11,9 @@ black:
 	@black scripts/* toto2/*.py
 
 test:
-	@coverage run -m pytest tests/*.py
+	@coverage run -m pytest tests/test*.py
 	@coverage report -m --omit="${VIRTUAL_ENV}/lib/python*"
 
-ftest:
-	@Write me
 
 clean:
 	@rm -f */version.txt

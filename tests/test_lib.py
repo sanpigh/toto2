@@ -1,4 +1,4 @@
-from toto.lib import who_am_i
+from toto2.lib import who_am_i
 
 
 def test_whoami():

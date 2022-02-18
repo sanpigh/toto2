@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from toto.lib import who_am_i
+from toto2.computedist import interface
 
-who_am_i()
-
-
+interface()

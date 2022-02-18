@@ -1,16 +1,11 @@
 # Data analysis
-- Document here the project: toto2
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+I'm just kidding
 
 # Startup the project
 
 The initial setup.
 
-Create virtualenv and install the project:
+Create virtualenv and install the projecProject Descriptiont:
 ```bash
 sudo apt-get install virtualenv python-pip python-dev
 deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\

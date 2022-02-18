@@ -12,4 +12,4 @@ def test_whoami_fail():
 
     res = who_am_i()
 
-    assert "Pepe" in res.split()
+    assert "Santiago" in res.split()

@@ -6,4 +6,4 @@ from toto2.lib import who_am_i
 
 
 who_am_i()
-interface()
+#interface()

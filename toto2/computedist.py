@@ -21,6 +21,7 @@ def haversine(lon1, lat1, lon2, lat2):
     return c * r
 
 def interface():
+    print('Welcome to interface function')
     description = 'stkrgcp_description'
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('--coords',

@@ -2,5 +2,8 @@
 # -*- coding: utf-8 -*-
 
 from toto2.computedist import interface
+from toto2.lib import who_am_i
 
+
+who_am_i()
 interface()
